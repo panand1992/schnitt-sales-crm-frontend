@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkschnitt_sales_crm_frontend=self.webpackChunkschnitt_sales_crm_frontend||[]).push([[116],{116(e,s,t){t.r(s),t.d(s,{default:()=>c});var n=t(540);const c=()=>n.createElement("div",null,"Yo")}}]);
